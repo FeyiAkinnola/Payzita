@@ -5,7 +5,7 @@
 
 
 // SUBSCRIBE FORM MODE [ "file" OR "mailchimp" }
-$mode = "file";
+$mode = "mailchimp";
 
 
 /** 1.1. MAIN SETTINGS [ FILE MODE ]
